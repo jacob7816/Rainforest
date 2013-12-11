@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  stock_symbol: MyString
+  grade: 1.5
+  content: MyText
+
+two:
+  stock_symbol: MyString
+  grade: 1.5
+  content: MyText

@@ -1,0 +1,10 @@
+<h1>Transcripts</h1>
+
+
+<% @transcripts.each do |transcript| %>
+
+	<h1><%= transcript.stock_symbol %></h1>
+	
+	<p><%= transcript.content %></p>
+
+<% end %>
